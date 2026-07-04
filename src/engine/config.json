@@ -1,0 +1,6 @@
+{
+    "scan_directory": "./files_to_scan",
+    "log_file": "security.log",
+    "auto_quarantine": true,
+    "forbidden_permissions": ["SEND_SMS", "CAMERA", "READ_CONTACTS"]
+}
